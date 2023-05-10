@@ -1,0 +1,10 @@
+C:\Users\ANWAR\OneDrive\Desktop\microservices\microservices-new\orderservice\src\main\java\com\bzw\orderservice\OrderserviceApplication.java
+C:\Users\ANWAR\OneDrive\Desktop\microservices\microservices-new\orderservice\src\main\java\com\bzw\orderservice\service\OrderService.java
+C:\Users\ANWAR\OneDrive\Desktop\microservices\microservices-new\orderservice\src\main\java\com\bzw\orderservice\dto\OrderRequest.java
+C:\Users\ANWAR\OneDrive\Desktop\microservices\microservices-new\orderservice\src\main\java\com\bzw\orderservice\repository\OrderRepository.java
+C:\Users\ANWAR\OneDrive\Desktop\microservices\microservices-new\orderservice\src\main\java\com\bzw\orderservice\config\WebClientConfig.java
+C:\Users\ANWAR\OneDrive\Desktop\microservices\microservices-new\orderservice\src\main\java\com\bzw\orderservice\dto\InventoryResponse.java
+C:\Users\ANWAR\OneDrive\Desktop\microservices\microservices-new\orderservice\src\main\java\com\bzw\orderservice\controller\OrderController.java
+C:\Users\ANWAR\OneDrive\Desktop\microservices\microservices-new\orderservice\src\main\java\com\bzw\orderservice\model\Order.java
+C:\Users\ANWAR\OneDrive\Desktop\microservices\microservices-new\orderservice\src\main\java\com\bzw\orderservice\dto\OrderLineItemsDto.java
+C:\Users\ANWAR\OneDrive\Desktop\microservices\microservices-new\orderservice\src\main\java\com\bzw\orderservice\model\OrderLineItems.java
